@@ -24,4 +24,4 @@ var e=arguments[3];Object.defineProperty(exports,"__esModule",{value:!0});var n=
 },{"react":"HdMw","../components/Header":"RzfG","../components/SubscirbersList":"/I+/","../components/AddSub":"yJbX"}],"Focm":[function(require,module,exports) {
 "use strict";var e=u(require("react")),r=u(require("react-dom")),t=u(require("./pages/Layout"));function u(e){return e&&e.__esModule?e:{default:e}}var a=document.getElementById("app");r.default.render(e.default.createElement(t.default,null),a);
 },{"react":"HdMw","react-dom":"X9zx","./pages/Layout":"cOkW"}]},{},["Focm"], null)
-//# sourceMappingURL=/upgrad-internship-phonedirectory.f5f4c7ae.js.map
+//# sourceMappingURL=upgrad-internship-phonedirectory.f5f4c7ae.js.map
